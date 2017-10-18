@@ -3,7 +3,7 @@
 	"manifest_version": 2,
 	"name": "Extension_Firefox",
 	"version": "1.0",
-	"homepage_url": "https://github.com/Bidis93/Extension-Firfox",
+	"homepage_url": "https://github.com/Bidis93/Extension-Firefox",
 	"icons": {
 		"48": "icons/beasts-48.png"
 	},
