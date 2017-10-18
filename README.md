@@ -16,3 +16,15 @@ On peut trouver les règles sur la documentation officielle -, W3C et d’autres
 Se renseigner sur les différentes fonctions qui analysent le code.
 
 Pour la répartition du travail, chacun travaillera sur une fonction précise.
+
+
+exemples de fonctionnalité pour les balises :
+
+var divCheck = document.getElementsByTagName("div");
+var sectionCheck = document.getElementsByTagName("section");
+var asideCheck = document.getElementsByTagName("aside");
+var articleCheck = document.getElementsByTagName("article");
+var pCheck = document.getElementsByTagName("p");
+var headerCheck = document.getElementsByTagName("header");
+var footerCheck = document.getElementsByTagName("footer");
+var mainCheck = document.getElementsByTagName("main");
