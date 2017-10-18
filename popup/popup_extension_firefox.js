@@ -5,6 +5,6 @@ document.addEventListener("click", (e) => {
 
 	var gettingActiveTab = browser.tabs.query( { active: true, currentWindow: true } );
 	gettingActiveTab.then( (tabs) => {
-		browser.tabs.sendMessage( tabs[0].id, { message: "sendMessage" } );
+		browser.tabs.sendMessage( tabs[0].id, { message: "test" } );
 	});
 });
